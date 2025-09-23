@@ -1119,7 +1119,7 @@ const demoVideos = {
     <div className="relative w-30 h-12">
       {/* Logo de la empresa */}
       <img
-        src= "/logos/logo blanco.png"
+        src= "/logos/Logo blanco.png"
         alt="Logo 360 Security"
         className="w-full h-full object-contain"
       />
